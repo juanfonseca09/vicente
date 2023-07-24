@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+.galeria {
+    font-family: Montserrat, sans-serif;
+    /* background-color: rgba(247, 218, 91, 0.2); */
+    height: 150vh;
+}
+
+.galeria h2 {
+    color: rgb(146,38,51);
+
+}
+
+.carousel-inner img {
+    /* border: 15px solid rgb(146,38,51,0.8); */
+    max-height: 100vh;
+}

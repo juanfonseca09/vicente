@@ -1,0 +1,8 @@
+.contacto {
+    font-family: Montserrat, sans-serif;
+    /* background-color: rgba(247, 218, 91, 0.2); */
+    height: 120vh;
+    width: 100%;
+    display: flex;
+    color: rgb(146,38,51);
+}

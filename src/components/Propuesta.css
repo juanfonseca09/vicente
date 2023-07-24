@@ -1,0 +1,30 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Raleway:wght@300&display=swap');
+
+.propuesta {
+    font-family: Montserrat, sans-serif;
+    text-transform: uppercase;
+    background-color:rgba(38, 45, 146, 0.4);
+    color: #fff;
+    height: 170vh;
+    width: 100%;
+    position: relative;
+}
+ 
+  .propuesta:before {
+    content: "";
+    position: absolute;    
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 170vh;
+    width: 100%;
+  }
+
+  .propuesta h2 {
+    color: rgb(146,38,51);
+  }
+
+  .propuesta hr {    
+    border-top: 10px solid #09008d;
+    border-radius: 5px;
+}

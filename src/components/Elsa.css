@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+.elsa {
+    font-family: Raleway, sans-serif;
+    /* background-color: rgba(247, 218, 91, 0.2); */
+    height: 170vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.elsa .elsa2 {
+    margin-top: 15vh;
+}
+
+.elsa h2 {
+    color: rgb(146,38,51);
+}
+
+.elsa img {
+    border-top: 7px solid rgb(146,38,51);
+    border-right: 7px solid rgb(247,189,29);
+    border-bottom: 7px solid rgb(247,189,29);
+    border-left: 7px solid rgb(146,38,51);
+}
