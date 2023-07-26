@@ -8,7 +8,7 @@ export const Propuesta = () => {
     <Parallax bgImage={'./fondo2.png'} strength={120}>
     <div className="propuesta">
   <Container>
-    <div className="col-6 mx-auto text-center pt-5">
+    <div className="col-md-6 mx-auto text-center pt-5">
       <h2 className="display-4 py-5">Nuestra Propuesta</h2>
       <hr className="py-2"/>
       <p className="p-4">
