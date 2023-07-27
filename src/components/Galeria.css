@@ -3,7 +3,8 @@
 .galeria {
     font-family: Montserrat, sans-serif;
     /* background-color: rgba(247, 218, 91, 0.2); */
-    height: 150vh;
+    /* height: 150vh; */
+    margin-bottom: 10vh;
 }
 
 .galeria h2 {
