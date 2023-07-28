@@ -9,7 +9,7 @@ import { Container } from 'react-bootstrap';
 
 export const Galeria = () => {
   return (
-    <div className="galeria pt-5">
+    <div className="galeria pt-5" id='elsa'>
     <Container>
         <div className="text-center">
             <h2 className="display-5 py-5">Galería de Fotos</h2>

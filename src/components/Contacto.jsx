@@ -6,7 +6,7 @@ import Form from 'react-bootstrap/Form';
 
 export const Contacto = () => {
   return (
-    <div className="contacto row justify-content-center">
+    <div className="contacto row justify-content-center" id='contacto'>
         <Container>
             <div className="mx-auto col-10 col-md-8 col-lg-6 text-center">
             <div className="py-5">

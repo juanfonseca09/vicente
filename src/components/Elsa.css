@@ -18,8 +18,8 @@
 }
 
 .elsa img {
-    border-top: 7px solid rgb(146,38,51);
-    border-right: 7px solid rgb(247,189,29);
-    border-bottom: 7px solid rgb(247,189,29);
-    border-left: 7px solid rgb(146,38,51);
+    border-top: 5px solid rgb(146,38,51);
+    border-right: 5px solid rgb(247,189,29);
+    border-bottom: 5px solid rgb(247,189,29);
+    border-left: 5px solid rgb(146,38,51);
 }

@@ -14,10 +14,7 @@
 }
  
   .inicio:before {
-    content: "";
     position: absolute;
-   
-   
     background-repeat: no-repeat;
     background-size: cover;
     height: 120vh;

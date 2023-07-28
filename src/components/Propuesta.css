@@ -4,26 +4,26 @@
 .propuesta {
     font-family: Montserrat, sans-serif;
     text-transform: uppercase;
-    background-color:rgba(38, 45, 146, 0.4);
-    color: #fff;
+    /* background-color:rgba(38, 45, 146, 0.4); */
+    /* color: #fff; */
     height: 170vh;
-    width: 100%;
-    position: relative;
+    /* width: 100%;
+    position: relative; */
 }
  
-  .propuesta:before {
+  /* .propuesta:before {
     position: absolute;    
     background-repeat: no-repeat;
     background-size: cover;
     height: 170vh;
     width: 100%;
-  }
+  } */
 
   .propuesta h2 {
     color: rgb(146,38,51);
   }
 
   .propuesta hr {    
-    border-top: 10px solid #09008d;
+    border-top: 10px solid rgb(81,116,180);
     border-radius: 5px;
 }

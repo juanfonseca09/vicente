@@ -8,25 +8,26 @@
 }
 
 .navbar-custom .navbar-text,
-.navbar-custom .navbar-nav .nav-link {
+.navbar-custom .navbar-nav a {
   color: rgb(247, 189, 29);
   font-size: large;
   margin-right: 20px;
+  text-decoration: none;
 }
 
 /* New styles for the buttons */
-.navbar-custom .navbar-nav .nav-link {
+.navbar-custom .navbar-nav a {
   position: relative; /* Add position relative to each button */
   /* color: #fff; Set the text color to white */
   padding-bottom: 5px; /* Add some space at the bottom for the line */
 }
 
-.navbar-custom .navbar-nav .nav-link:hover {
+.navbar-custom .navbar-nav a:hover {
   transition: 0.5s;
   color: #fff;
 }
 
-.navbar-custom .navbar-nav .nav-link::before {
+.navbar-custom .navbar-nav a::before {
   content: ''; /* Add an empty content */
   position: absolute;
   width: 100%;
@@ -40,6 +41,6 @@
   transition: transform 0.3s ease;
 }
 
-.navbar-custom .navbar-nav .nav-link:hover::before {
+.navbar-custom .navbar-nav a:hover::before {
   transform: scaleX(1); /* Scale the line to full width on hover */
 }

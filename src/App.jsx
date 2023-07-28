@@ -6,12 +6,13 @@ import { Inicio } from './components/Inicio'
 import { Propuesta } from './components/Propuesta'
 import { HeaderNav } from './components/HeaderNav'
 import { FloatingWhatsApp } from 'react-floating-whatsapp'
+import ScrollToTop from 'react-scroll-to-top'
 
 function App() {
   return (
     <>
       <FloatingWhatsApp
-        phoneNumber="598092037009"
+        phoneNumber="598098146159"
         accountName="Agrupación Purificación"
         statusMessage="Responderemos a la brevedad"
         avatar="./logowp.png"
@@ -22,12 +23,14 @@ function App() {
         notification
         notificationSound
       />
-      <HeaderNav/>
-      <Inicio/>
-      <Elsa/>
-      <Propuesta/>
-      <Galeria/>
-      <Contacto/>
+      <ScrollToTop smooth color='rgb(146, 38, 51)' />
+        <HeaderNav/>
+        <Inicio/>
+        <Elsa/>
+        <Propuesta/>
+        <Galeria/>
+        <Contacto/>
+      
     </>
   )
 }
