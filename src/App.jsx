@@ -12,7 +12,7 @@ function App() {
   return (
     <>
       <FloatingWhatsApp
-        phoneNumber="598098146159"
+        phoneNumber="598098856219"
         accountName="Agrupación Purificación"
         statusMessage="Responderemos a la brevedad"
         avatar="./logowp.png"
