@@ -2,9 +2,7 @@
 
 .galeria {
     font-family: Montserrat, sans-serif;
-    /* background-color: rgba(247, 218, 91, 0.2); */
-    /* height: 150vh; */
-    margin-bottom: 10vh;
+    margin-bottom: 20vh;
 }
 
 .galeria h2 {
@@ -13,6 +11,5 @@
 }
 
 .carousel-inner img {
-    /* border: 15px solid rgb(146,38,51,0.8); */
     max-height: 100vh;
 }

@@ -2,13 +2,25 @@
 
 .elsa {
     font-family: Raleway, sans-serif;
-    /* background-color: rgba(247, 218, 91, 0.2); */
-    height: 170vh;
     width: 100%;
     display: flex;
     justify-content: center;
-}
-
+  }
+  
+  @media (max-width: 768px) {
+    /* Modifica el tamaño vh en pantallas más pequeñas */
+    .elsa {
+      height: 280vh; /* Ajusta este valor según sea necesario */
+    }
+  }
+  
+  @media (max-width: 576px) {
+    /* Modifica el tamaño vh en pantallas aún más pequeñas */
+    .elsa {
+      height: 320vh; /* Ajusta este valor según sea necesario */
+    }
+  }
+  
 .elsa .elsa2 {
     margin-top: 15vh;
 }

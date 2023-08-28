@@ -1,0 +1,18 @@
+.footer {
+    background-color: rgb(254, 189, 1);
+}
+
+.footer .social {
+    color: rgb(146,38,51);
+    padding: 10px 15px;
+    border-color: rgb(146,38,51);
+    border-radius: 15px;
+    border-width: 2px;
+}
+
+.footer .social:hover {
+    color: #fff;
+    border-color: rgb(146,38,51);
+    background-color: rgb(146,38,51);
+    transition: 500ms;
+}

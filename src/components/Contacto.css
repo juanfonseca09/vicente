@@ -1,8 +1,29 @@
 .contacto {
     font-family: Montserrat, sans-serif;
-    /* background-color: rgba(247, 218, 91, 0.2); */
     height: 120vh;
     width: 100%;
     display: flex;
     color: rgb(146,38,51);
 }
+
+@media (max-width: 768px) {
+    .contacto {
+      height: 250vh; 
+    }
+  }
+
+.contacto a {
+    color: #000;
+    text-decoration: none;
+}
+
+.contacto a:hover {
+    color: rgb(146,38,51);
+}
+
+
+  .ubi:hover {
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    transition: 500ms;
+  }

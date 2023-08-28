@@ -7,6 +7,7 @@ import { Propuesta } from './components/Propuesta'
 import { HeaderNav } from './components/HeaderNav'
 import { FloatingWhatsApp } from 'react-floating-whatsapp'
 import ScrollToTop from 'react-scroll-to-top'
+import { Footer } from './components/Footer'
 
 function App() {
   return (
@@ -30,7 +31,7 @@ function App() {
         <Propuesta/>
         <Galeria/>
         <Contacto/>
-      
+        <Footer/>      
     </>
   )
 }

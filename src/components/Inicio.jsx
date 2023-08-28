@@ -7,17 +7,19 @@ import { Parallax } from 'react-parallax'
 export const Inicio = () => {
   return (
     <>
-      <Parallax bgImage={'./fondo.jpg'} strength={100}>
+      <Parallax bgImage={'./fondo.jpg'} strength={70}>
         <div className="inicio" id='inicio'>
             <Container>
                 <div className='row col-md-6  justify-content-center'>
                     <h2 className='display-2'>Agrupación<br/>Purificación</h2>
-                    <span className='lead pb-3'>Cabildo Abierto</span>
-                    <p className='small py-3'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. In eos voluptatum soluta magnam, officia sed, fuga, odit eveniet molestiae at cupiditate dolor illo sint nostrum? Rem accusamus porro possimus hic?</p>
-                </div>  
-                <Button href='https://google.com' target="_blank" className='col-3 py-2' variant="outline-danger" size="lg" type="submit">
+                    <span className='lead pb-3'>Elsa Capillera</span>
+                    <p className='small py-3'><em>"Nuestras acciones demuestran nuestro compromiso."</em></p>
+                </div> 
+                <div className="col-3">
+                <Button href='https://parlamento.gub.uy/camarasycomisiones/legisladores/12662/iniciativas-legislador?Fechadesde=2020-02-15&Fechahasta=2025-02-14' target="_blank" className='py-2' variant="outline-danger" size="lg" type="submit">
                   Proyectos Presentados
-                </Button>          
+                </Button> 
+                </div>          
             </Container>
         </div> 
       </Parallax>

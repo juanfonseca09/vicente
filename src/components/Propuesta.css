@@ -4,21 +4,18 @@
 .propuesta {
     font-family: Montserrat, sans-serif;
     text-transform: uppercase;
-    /* background-color:rgba(38, 45, 146, 0.4); */
-    /* color: #fff; */
-    height: 170vh;
-    /* width: 100%;
-    position: relative; */
+    background-color: rgba(255, 255, 255, 0.35);
+    height: 230vh;
+  
+}
+
+@media (max-width: 768px) {
+  .propuesta {
+    height: 260vh; 
+  }
 }
  
-  /* .propuesta:before {
-    position: absolute;    
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 170vh;
-    width: 100%;
-  } */
-
+ 
   .propuesta h2 {
     color: rgb(146,38,51);
   }
@@ -27,3 +24,19 @@
     border-top: 10px solid rgb(81,116,180);
     border-radius: 5px;
 }
+
+.propuesta .carousel-control-prev {
+  margin-left: -10vh;
+}
+
+.propuesta .carousel-control-next {
+  margin-right: -10vh;
+}
+
+.propuesta .carousel-control-prev-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+ }
+ 
+ .propuesta .carousel-control-next-icon {
+   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+ }
