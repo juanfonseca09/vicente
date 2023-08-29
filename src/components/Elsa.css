@@ -9,19 +9,19 @@
   
   @media (max-width: 1000px) and (min-width: 576px) {
     .elsa {
-      height: 280vh;
+      height: 140vh;
     }
   }
   
-  @media (max-width: 576px) and (min-width: 400px){
+  @media (max-width: 576px) and (min-width: 420px){
     .elsa {
       height: 210vh;
     }
   }
 
-  @media (max-width: 400px){
+  @media (max-width: 420px){
     .elsa {
-      height: 240vh;
+      height: 245vh;
     }
   }
   

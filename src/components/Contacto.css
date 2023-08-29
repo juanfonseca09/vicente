@@ -13,15 +13,15 @@
     }
   }
 
-  @media (max-width: 576px) and (min-width: 400px) {
+  @media (max-width: 576px) and (min-width: 420px) {
     .contacto {
       height: 150vh;
     }
   }
   
-  @media (max-width: 400px) {
+  @media (max-width: 420px) {
     .contacto {
-      height: 160vh;
+      height: 170vh;
     }
   }
   

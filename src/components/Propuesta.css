@@ -14,7 +14,7 @@
     height: 150vh;
   }
 
-}  @media (max-width: 576px) and (min-width: 400px) {
+}  @media (max-width: 576px) and (min-width: 420px) {
   .propuesta {
     height: 180vh;
   }
@@ -26,9 +26,9 @@
     margin-right: -5vh !important;
   }
 }
-@media (max-width: 400px) {
+@media (max-width: 420px) {
   .propuesta {
-    height: 200vh;
+    height: 205vh;
   }
   .propuesta .carousel-control-prev {
     margin-left: -5vh !important;
