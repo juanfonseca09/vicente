@@ -9,11 +9,36 @@
   
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1000px) and (min-width: 576px) {
   .propuesta {
-    height: 260vh; 
+    height: 150vh;
+  }
+
+}  @media (max-width: 576px) and (min-width: 400px) {
+  .propuesta {
+    height: 180vh;
+  }
+  .propuesta .carousel-control-prev {
+    margin-left: -5vh !important;
+  }
+  
+  .propuesta .carousel-control-next {
+    margin-right: -5vh !important;
   }
 }
+@media (max-width: 400px) {
+  .propuesta {
+    height: 200vh;
+  }
+  .propuesta .carousel-control-prev {
+    margin-left: -5vh !important;
+  }
+  
+  .propuesta .carousel-control-next {
+    margin-right: -5vh !important;
+  }
+}
+
  
  
   .propuesta h2 {

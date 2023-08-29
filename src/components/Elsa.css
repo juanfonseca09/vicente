@@ -7,17 +7,21 @@
     justify-content: center;
   }
   
-  @media (max-width: 768px) {
-    /* Modifica el tamaño vh en pantallas más pequeñas */
+  @media (max-width: 1000px) and (min-width: 576px) {
     .elsa {
-      height: 280vh; /* Ajusta este valor según sea necesario */
+      height: 280vh;
     }
   }
   
-  @media (max-width: 576px) {
-    /* Modifica el tamaño vh en pantallas aún más pequeñas */
+  @media (max-width: 576px) and (min-width: 400px){
     .elsa {
-      height: 320vh; /* Ajusta este valor según sea necesario */
+      height: 210vh;
+    }
+  }
+
+  @media (max-width: 400px){
+    .elsa {
+      height: 240vh;
     }
   }
   

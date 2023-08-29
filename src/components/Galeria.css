@@ -5,6 +5,19 @@
     margin-bottom: 20vh;
 }
 
+@media (max-width: 1000px) and (min-width: 576px) {
+    .galeria {
+        margin-bottom: 5vh;
+    }
+  }
+
+@media (max-width: 576px) {
+    .galeria {
+      height: 35vh;
+    }
+  }
+  
+
 .galeria h2 {
     color: rgb(146,38,51);
 

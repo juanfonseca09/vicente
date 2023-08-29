@@ -2,6 +2,18 @@
     background-color: rgb(254, 189, 1);
 }
 
+@media (max-width: 576px) and (min-width: 400px) {
+    .footer .social-ntwk {
+        margin-right: 10vh;
+    }
+  }
+  
+  @media (max-width: 400px) {
+    .footer .social-ntwk {
+        margin-right: 7vh;
+    }
+  }
+
 .footer .social {
     color: rgb(146,38,51);
     padding: 10px 15px;

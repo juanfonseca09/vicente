@@ -1,3 +1,21 @@
 .floating-whatsapp-button {
-    margin-right: 12vh
+    margin-right: 12vh;
 }
+
+@media (max-width: 1000px) {
+    .scroll-to-top {
+        margin-bottom: 10vh;
+    }
+    .floating-whatsapp-button {
+        margin-right: 0vh;
+    }
+}
+@media (max-width: 576px) {
+    .scroll-to-top {
+        margin-bottom: 10vh;
+    }
+    .floating-whatsapp-button {
+        margin-right: 0vh;
+    }
+  }
+  
