@@ -2,29 +2,11 @@
 
 .elsa {
     font-family: Raleway, sans-serif;
-    width: 100%;
+    margin-bottom: 6vh;
     display: flex;
     justify-content: center;
   }
-  
-  @media (max-width: 1000px) and (min-width: 576px) {
-    .elsa {
-      height: 140vh;
-    }
-  }
-  
-  @media (max-width: 576px) and (min-width: 420px){
-    .elsa {
-      height: 210vh;
-    }
-  }
 
-  @media (max-width: 420px){
-    .elsa {
-      height: 245vh;
-    }
-  }
-  
 .elsa .elsa2 {
     margin-top: 15vh;
 }

@@ -5,19 +5,15 @@
     font-family: Montserrat, sans-serif;
     text-transform: uppercase;
     background-color: rgba(255, 255, 255, 0.35);
-    height: 230vh;
   
 }
 
-@media (max-width: 1000px) and (min-width: 576px) {
-  .propuesta {
-    height: 150vh;
-  }
+.propuesta .ytp-cued-thumbnail-overlay-image {
 
-}  @media (max-width: 576px) and (min-width: 420px) {
-  .propuesta {
-    height: 180vh;
-  }
+  margin-bottom: 6vh;
+
+}
+ @media (max-width: 576px) {
   .propuesta .carousel-control-prev {
     margin-left: -5vh !important;
   }
@@ -26,19 +22,6 @@
     margin-right: -5vh !important;
   }
 }
-@media (max-width: 420px) {
-  .propuesta {
-    height: 205vh;
-  }
-  .propuesta .carousel-control-prev {
-    margin-left: -5vh !important;
-  }
-  
-  .propuesta .carousel-control-next {
-    margin-right: -5vh !important;
-  }
-}
-
  
  
   .propuesta h2 {

@@ -6,7 +6,7 @@ import { Parallax } from "react-parallax";
 export const Propuesta = () => {
   return (
     <Parallax bgImage={'./fondo2.png'} strength={120}>
-    <div className="propuesta" id="propuesta">
+    <div className="propuesta">
   <Container>
     <div className="col-md-6 mx-auto text-center pt-5">
       <h2 className="display-4 py-5">Nuestra Propuesta</h2>

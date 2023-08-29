@@ -1,29 +1,10 @@
 .contacto {
     font-family: Montserrat, sans-serif;
-    height: 120vh;
+    margin-bottom: 6vh;
     width: 100%;
     display: flex;
     color: rgb(146,38,51);
 }
-
-@media (max-width: 1000px) and (min-width: 576px) {
-    .contacto {
-      height: 70vh;
-      margin-top: 5vh; 
-    }
-  }
-
-  @media (max-width: 576px) and (min-width: 420px) {
-    .contacto {
-      height: 150vh;
-    }
-  }
-  
-  @media (max-width: 420px) {
-    .contacto {
-      height: 170vh;
-    }
-  }
   
 
 .contacto a {
