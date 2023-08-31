@@ -7,7 +7,7 @@ import { Parallax } from 'react-parallax'
 export const Inicio = () => {
   return (
     <>
-      {/* <Parallax bgImage={'./fondo.jpg'} strength={70}> */}
+      <Parallax bgImage={'./fondoo.jpg'} strength={70}>
         <div className="inicio" id='inicio'>
             <Container>
                 <div className='row col-md-6  justify-content-center'>
@@ -15,14 +15,14 @@ export const Inicio = () => {
                     <span className='h3 pb-3'>Elsa Capillera</span>
                     <p className='h5 py-3'><em>"Nuestras acciones demuestran nuestro compromiso."</em></p>
                 </div> 
-                <div className="col-3 pt-3">
+                <div className="col-3">
                 <Button href='https://parlamento.gub.uy/camarasycomisiones/legisladores/12662/iniciativas-legislador?Fechadesde=2020-02-15&Fechahasta=2025-02-14' target="_blank" className='py-2' variant="outline-danger" size="lg" type="submit">
                   Proyectos Presentados
                 </Button> 
                 </div>          
             </Container>
         </div> 
-      {/* </Parallax> */}
+      </Parallax>
     </>
   )
 }
