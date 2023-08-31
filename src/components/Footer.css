@@ -2,13 +2,13 @@
     background-color: rgb(254, 189, 1);
 }
 
-@media (max-width: 576px) and (min-width: 400px) {
+@media (max-width: 576px) and (min-width: 420px) {
     .footer .social-ntwk {
         margin-right: 10vh;
     }
   }
   
-  @media (max-width: 400px) {
+  @media (max-width: 420px) {
     .footer .social-ntwk {
         margin-right: 7vh;
     }

@@ -15,11 +15,9 @@
   text-decoration: none;
 }
 
-/* New styles for the buttons */
 .navbar-custom .navbar-nav a {
-  position: relative; /* Add position relative to each button */
-  /* color: #fff; Set the text color to white */
-  padding-bottom: 5px; /* Add some space at the bottom for the line */
+  position: relative;
+  padding-bottom: 5px;
 }
 
 .navbar-custom .navbar-nav a:hover {
@@ -28,19 +26,19 @@
 }
 
 .navbar-custom .navbar-nav a::before {
-  content: ''; /* Add an empty content */
+  content: ''; 
   position: absolute;
   width: 100%;
   height: 4px; 
-  border-radius: 1px;/* Set the height of the line */
-  background-color: #fff; /* Set the color of the line */
-  bottom: 0; /* Position the line at the bottom */
+  border-radius: 1px;
+  background-color: #fff; 
+  bottom: 0; 
   left: 0;
-  transform: scaleX(0); /* Initially, the line is invisible */
+  transform: scaleX(0); 
   transform-origin: left;
   transition: transform 0.3s ease;
 }
 
 .navbar-custom .navbar-nav a:hover::before {
-  transform: scaleX(1); /* Scale the line to full width on hover */
+  transform: scaleX(1); 
 }
