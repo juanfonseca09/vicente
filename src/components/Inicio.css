@@ -5,19 +5,14 @@
     text-transform: uppercase;
     background-color: rgba(255, 255, 255);
     color: rgb(146, 38, 51);
-    height: 120vh;
+    margin-top: 20vh;
+    margin-bottom: 10vh;
     width: 100%;
     position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
 }
-
-@media (max-width: 1000px) {
-    .inicio {
-      height: 80vh;
-    }
-  }
 
   
 .btn {
