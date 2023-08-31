@@ -7,7 +7,7 @@ import { Parallax } from 'react-parallax'
 export const Inicio = () => {
   return (
     <>
-      <Parallax bgImage={'./fondoo.jpg'} strength={70}>
+      <Parallax bgImage={'./fondoo.png'} strength={70}>
         <div className="inicio" id='inicio'>
             <Container>
                 <div className='row col-md-6  justify-content-center'>
