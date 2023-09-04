@@ -25,11 +25,11 @@ Elsa Capillera es una mujer de fe, convencida de que imposible, no hay nada.
             </Col>
             <Col md={6} className="p-5">
               <p className='py-3 text-muted'>Actividad Parlamentaria de Elsa Capillera:<br/>
-Durante esta legislatura ha presentado diversos proyectos de ley, proyectos de resolucion asi como pedidos de informes que se pueden observar en el cuadro "proyectos presentados".  A su vez, ha tenido destacada participacion en las comisiones que integra de la Cámara de Representantes. 
-Año 2020: Ingresó a la Cámara de Representantes.
-Año 2021: Es elegida Primer Vicepresidente de Cámara, y también ocupó la Presidencia de la Comisión de Vivienda y Ordenamiento Territorial de la Cámara de Diputados. 
-Año 2022: Ocupa la Vicepresidencia de la Comisión de Seguridad y Convivencia Ciudadana.
-Año 2023: Fue elegida Presidente de la Comisión especial de Cooperativismo.</p>
+Durante esta legislatura ha presentado diversos proyectos de ley, proyectos de resolucion asi como pedidos de informes que se pueden observar en el cuadro "proyectos presentados".  A su vez, ha tenido destacada participacion en las comisiones que integra de la Cámara de Representantes.<br/>
+- Año 2020: Ingresó a la Cámara de Representantes.<br/>
+- Año 2021: Es elegida Primer Vicepresidente de Cámara, y también ocupó la Presidencia de la Comisión de Vivienda y Ordenamiento Territorial de la Cámara de Diputados.<br/>
+- Año 2022: Ocupa la Vicepresidencia de la Comisión de Seguridad y Convivencia Ciudadana.<br/>
+- Año 2023: Fue elegida Presidente de la Comisión especial de Cooperativismo.</p>
             </Col>
             <Col md={6} className="p-5">
               <img src="./elsa2.jpeg" className='img-fluid' alt="Elsa 2"/>
