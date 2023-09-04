@@ -19,7 +19,7 @@ Concurrió a la escuela Santa Bernardita y a los liceos 17 Fransico Acuña de Fi
 Su vida laboral empezó a los 11 años como niñera, trabajaba y estudiaba, para los 17 ya se había ido a trabajar como empleada doméstica “con cama” en una casa en Punta del Este. 
 Se casó a los 23 y tiene 2 hijos de 29 y 15 años. Tiempo después de su casamiento pudieron comprar una “casa” en el asentamiento Tres Palmas, en donde se convirtió en una referente barrial y social al frente de la presidencia de la comisión del mismo asentamiento. Logrando luego de mucho esfuerzo junto a sus vecinos, la regularización de su hoy barrio. 
 Desde el 2006, fue concejal vecinal en tres oportunidades, siendo elegida como secretaria de la mesa del consejo por unanimidad. 
-En 2019 le llega la invitación a sumarse al nuevo Partido Político Cabildo Abierto encabezando una lista en las elecciones internas, siendo la lista más votada. En la elecciones Nacionales, vuelve a encabezar una lista a la Cámara de Representantes y con su agrupación denominada “Purificación” fue electa diputada por Cabildo Abierto, logrando nuevamente ser la lista más votada en Montevideo con 23.71 votos. 
+En 2019 le llega la invitación a sumarse al nuevo Partido Político Cabildo Abierto encabezando una lista en las elecciones internas, siendo la lista más votada. En la elecciones Nacionales, vuelve a encabezar una lista a la Cámara de Representantes y con su agrupación denominada “Purificación” fue electa diputada por Cabildo Abierto, logrando nuevamente ser la lista más votada en Montevideo con 23.710 votos. 
 Elsa Capillera es una mujer de fe, convencida de que imposible, no hay nada. 
 "Donde hay voluntad, siempre hay un camino"</p>
             </Col>
