@@ -8,16 +8,30 @@
   }
 
 .elsa .elsa2 {
-    margin-top: 15vh;
+    margin-top: 7vh;
 }
+
+@media (max-width: 768px) {
+  .elsa {
+    margin-bottom: 0 !important;
+  }
+  .elsa p {
+    padding-bottom: 0 !important;
+    padding-top: 0 !important;
+    padding: 0 !important;
+  }
+}
+
 
 .elsa h2 {
     color: rgb(146,38,51);
 }
 
 .elsa img {
+  
     border-top: 5px solid rgb(146,38,51);
     border-right: 5px solid rgb(247,189,29);
     border-bottom: 5px solid rgb(247,189,29);
     border-left: 5px solid rgb(146,38,51);
+   
 }

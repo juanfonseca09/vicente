@@ -35,23 +35,23 @@ export const Contacto = () => {
           </Col>
           <Col md={5} className="mt-5">
             <div className="ubi p-2 mb-3">
-              <h3 className='mt-2'><FaMapMarkerAlt size={45}/>  Comite 1</h3>
-              <p>direccion comite1 15324</p>
+              <h3 className='mt-2'><FaMapMarkerAlt size={45}/>  Campamento del Cerrito de 1811</h3>
+              <p>Gral. Flores 3981</p>
+              <a href='https://goo.gl/maps/dCL4GXUcCweD5boeA' target="_blank"><FaMapMarkedAlt size={20}/>  Ver Ubicación</a>
+            </div>
+            <div className="ubi p-2 mb-3">
+              <h3 className='mt-2'><FaMapMarkerAlt size={45}/>  Comite 2</h3>
+              <p>direccion comite 2</p>
               <a href='https://goo.gl/maps/o3foBLNykjLPek8n6' target="_blank"><FaMapMarkedAlt size={20}/>  Ver Ubicación</a>
             </div>
             <div className="ubi p-2 mb-3">
-              <h3 className='mt-2'><FaMapMarkerAlt size={45}/>  Comite 1</h3>
-              <p>direccion comite1 15324</p>
+              <h3 className='mt-2'><FaMapMarkerAlt size={45}/>  Comite 3</h3>
+              <p>direccion comite 3</p>
               <a href='https://goo.gl/maps/o3foBLNykjLPek8n6' target="_blank"><FaMapMarkedAlt size={20}/>  Ver Ubicación</a>
             </div>
             <div className="ubi p-2 mb-3">
-              <h3 className='mt-2'><FaMapMarkerAlt size={45}/>  Comite 1</h3>
-              <p>direccion comite1 15324</p>
-              <a href='https://goo.gl/maps/o3foBLNykjLPek8n6' target="_blank"><FaMapMarkedAlt size={20}/>  Ver Ubicación</a>
-            </div>
-            <div className="ubi p-2 mb-3">
-              <h3 className='mt-2'><FaMapMarkerAlt size={45}/>  Comite 1</h3>
-              <p>direccion comite1 15324</p>
+              <h3 className='mt-2'><FaMapMarkerAlt size={45}/>  Comite 4</h3>
+              <p>direccion comite 4</p>
               <a href='https://goo.gl/maps/o3foBLNykjLPek8n6' target="_blank"><FaMapMarkedAlt size={20}/>  Ver Ubicación</a>
             </div>
           </Col>

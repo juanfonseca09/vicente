@@ -17,6 +17,7 @@
 .footer .social {
     color: rgb(146,38,51);
     padding: 10px 15px;
+    background-color: rgb(254, 189, 1);
     border-color: rgb(146,38,51);
     border-radius: 15px;
     border-width: 2px;
@@ -28,3 +29,4 @@
     background-color: rgb(146,38,51);
     transition: 500ms;
 }
+

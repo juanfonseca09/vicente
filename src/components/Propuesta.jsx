@@ -18,7 +18,7 @@ export const Propuesta = () => {
         <Carousel interval={null}>
           <Carousel.Item>
             <Ratio aspectRatio="4x3">
-              <iframe src="https://www.youtube.com/embed/ok6zbLndnX0?autoplay=0" allow="fullscreen;" ></iframe>
+              <iframe src="https://www.youtube.com/embed/Pa6kqn0g2cI?autoplay=0" allow="fullscreen;" ></iframe>
             </Ratio>
           </Carousel.Item>
           <Carousel.Item>
