@@ -24,7 +24,7 @@ Elsa Capillera es una mujer de fe, convencida de que imposible, no hay nada.
 "Donde hay voluntad, siempre hay un camino"</p>
             </Col>
             <Col md={6} className="p-5">
-              <p className='py-3 text-muted'>Actividad Parlamentaria de Elsa Capillera:<br/>
+              <p className='py-3 text-muted'>Actividad Parlamentaria de Elsa Capillera:<br/><br/>
 Durante esta legislatura ha presentado diversos proyectos de ley, proyectos de resolucion asi como pedidos de informes que se pueden observar en el cuadro "proyectos presentados".  A su vez, ha tenido destacada participacion en las comisiones que integra de la Cámara de Representantes.<br/>
 - Año 2020: Ingresó a la Cámara de Representantes.<br/>
 - Año 2021: Es elegida Primer Vicepresidente de Cámara, y también ocupó la Presidencia de la Comisión de Vivienda y Ordenamiento Territorial de la Cámara de Diputados.<br/>
