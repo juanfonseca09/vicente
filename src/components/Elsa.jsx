@@ -13,7 +13,7 @@ export const Elsa = () => {
             </Col>
             <Col md={6} className="p-5">
               <h2 className="display-5">Elsa Capillera:</h2>
-              <p className='py-3 text-muted'>Elsa Capillera nació en Salto un 15 de mayo de 1971, es la menor de 10 hermanos, su padre era obrero y su madre ama de casa. 
+              <p className='py-3 text-muted'>Nació en Salto un 15 de mayo de 1971, es la menor de 10 hermanos, su padre era obrero y su madre ama de casa. 
 Cuando ella tenía ocho años se mudaron a Montevideo y se instalaron en el barrio Borro (Casavalle), donde aún vive junto a su marido y el menor de sus hijos. 
 Concurrió a la escuela Santa Bernardita y a los liceos 17 Fransico Acuña de Figueroa y Liceo N⁰ 2 Hector Miranda, lamentablemente en tercero abandonó sus estudios por motivos económicos. 
 Su vida laboral empezó a los 11 años como niñera, trabajaba y estudiaba, para los 17 ya se había ido a trabajar como empleada doméstica “con cama” en una casa en Punta del Este. 
@@ -24,7 +24,7 @@ Elsa Capillera es una mujer de fe, convencida de que imposible, no hay nada.
 "Donde hay voluntad, siempre hay un camino"</p>
             </Col>
             <Col md={6} className="p-5">
-              <p className='py-3 text-muted'>Actividad Parlamentaria de Elsa Capillera: 
+              <p className='py-3 text-muted'>Actividad Parlamentaria de Elsa Capillera:<br/>
 Durante esta legislatura ha presentado diversos proyectos de ley, proyectos de resolucion asi como pedidos de informes que se pueden observar en el cuadro "proyectos presentados".  A su vez, ha tenido destacada participacion en las comisiones que integra de la Cámara de Representantes. 
 Año 2020: Ingresó a la Cámara de Representantes.
 Año 2021: Es elegida Primer Vicepresidente de Cámara, y también ocupó la Presidencia de la Comisión de Vivienda y Ordenamiento Territorial de la Cámara de Diputados. 
