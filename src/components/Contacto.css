@@ -16,9 +16,16 @@
     color: rgb(146,38,51);
 }
 
+.contacto .error_message {
+  color: red;
+  margin-top: 5px;
+  text-align: left; 
+  font-size: 1rem;
+}
 
   .ubi:hover {
     background-color: #f0f0f0;
     border-radius: 5px;
     transition: 500ms;
   }
+
